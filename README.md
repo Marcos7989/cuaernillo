@@ -1,0 +1,2 @@
+# cuaernillo
+carreras del técnico
